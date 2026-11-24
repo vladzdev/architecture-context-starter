@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+.DS_Store
+*.log
+.agents/skills/add-order-use-case/
+.claude/skills/add-order-use-case/
+.cursor/skills/add-order-use-case/
+.codex/skills/add-order-use-case/
+.skill-install-backups/
